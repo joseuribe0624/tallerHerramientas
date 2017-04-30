@@ -23,4 +23,4 @@ def jeep(kilometros,galones):
     return
 a=jeep (int(input('Ingrese el rendimiento de kilómetros por galón:  ')),int(input('ingrese los galones de gasolina: ')))
 
-print("Hola: ", a)
+print("Hola: ", a, abc)
